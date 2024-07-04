@@ -1,0 +1,9 @@
+{
+    "Login": {
+        "title": "next-intl example",
+        "description": "Welcome using next-intl."
+    },
+    "Footer": {
+        "copyright": "© 2024 Your App. All rights reserved."
+    }
+}

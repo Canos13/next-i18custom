@@ -1,0 +1,25 @@
+{
+    "Login": {
+        "title": "ejemplo de next-intl",
+        "description": "¡Bienvenido al ejemplo de Internacionalización utilizando next-intl.",
+        "main": {
+            "text1": "some text",
+            "text2": "some text2",
+            "message": {
+                "message1" : "mess1",
+                "message2" : "mess2"
+            }
+        }
+    },
+    "Footer": {
+        "copyright": "© 2024 Tu App. Todos los derechos reservados.",
+        "main": {
+            "text1": "some text",
+            "text2": "some text2",
+            "message": {
+                "message1" : "mess1",
+                "message2" : "mess2"
+            }
+        }
+    }
+}
